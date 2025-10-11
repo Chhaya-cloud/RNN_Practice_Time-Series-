@@ -1,1 +1,1 @@
-# RNN_Practice_Time-Series-
+# RNN, LSTM, GRU for NIFTY Prediction
